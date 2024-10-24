@@ -1,14 +1,20 @@
 #   PROYECTO DEL SEPTIMO SRPINT
+## INTRODUCCIÓN A LA AUTOMATIZACIÓN DE PRUEBAS. 
 TESTS DE PRUEBAS PARA EL PARAMETRO NAME EN LA CREACIÓN DEL KIT.
 
+>>      SEDANO SANCHEZ KARLA GUADALUPE.
 ## Requisitos previos
 
- - Instalar librerias pytest 
- - Instalar librerias requests
+- Instalar librerias pytest y requests:
+  > > pip3 install pytest  
+  > > pip3 install requests
+- o instalar desde requests.txt
+  > > pip3 install -r requirements.txt
 
 
 ## Formas de ejecutar las pruebas
-- Ejecuta todas las pruebas en pytest.
+1.  python3 -m pytest <Path-to-test-file>.py -vv -s
+2.  Ejecución por medio del IDE
 
 
 ## DESCRIPCIÓN DEL PROYECTO
