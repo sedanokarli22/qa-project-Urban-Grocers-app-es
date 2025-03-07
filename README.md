@@ -32,7 +32,7 @@ En el sector de e-commerce, la confiabilidad y eficiencia de las APIs son fundam
 * Para ejecutar las Pruebas Asegúrate de estar en el directorio "main.py", donde se encuentran las pruebas. Luego, ejecuta las pruebas utilizando pytest
 * Al finalizar las pruebas, pytest mostrará un resumen de los resultados en la terminal.
 
-## FUNCIONALIDAD DE LAS PRUEBAS 
+## FLUJO DE PRUEBAS 
 
 En el proyecto del Sprint 7 se realizaron nueve pruebas de una lista de comprobación enviando una solicitud para crear un kit personal, probando el parametro "name".
 
